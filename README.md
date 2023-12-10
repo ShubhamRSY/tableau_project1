@@ -1,4 +1,4 @@
-# tableau_project1
+# Tableau_project1
 # Global Cost of Living Analysis
 
 This project analyzes global cost of living data to answer a series of business questions related to living expenses, housing, lifestyle, and more in various cities around the world. Utilizing data from `Global_cost_living.csv`, we provide insights into the cost of living differences, housing affordability, and lifestyle expenses across different cities.
